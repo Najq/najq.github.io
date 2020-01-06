@@ -1,0 +1,44 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title">
+                    <h1>{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </div>
+                <div class="post-list">
+                    <ul>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a>Software Developer - ZS Associates </a>
+                            <p>Spearheaded the development of a web application, used by the top pharmaceutical companies ofthe world. Worked on designing schemas, fixing production bugs and writing server-side code in C# for integration of REST APIs</p>
+                            <p>Also, developed an MVC app from scratch to help Pharamceutical clients better understand their spends using Angular(5.0) and ASP.NET Web API hosted on AWS infrastructure with a MySQL connection </p>
+                        </li>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <a>Graduate Teaching Assistant - Simon Fraser University</a>
+                            <p>Conducted open labs, responded to questions and graded assignment/exams for "Introduction to Programming using Python" of 100+ students. </p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
+    <script src="{{ site.url }}/assets/js/wow.min.js"></script>
+    <script type="text/javascript">(new WOW).init();</script>
+</body>
+</html>
