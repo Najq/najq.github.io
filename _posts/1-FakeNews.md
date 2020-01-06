@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fake News Detection"
-date:   2016-04-06
+date:   2019-12-06
 excerpt: " Developed a deep learning model (Bi-directional LSTM) to detect Fake News using the title and the body of the article. Trained the model using distributed deep learning using Spark on AWS EMR."
 project: true
 tag:

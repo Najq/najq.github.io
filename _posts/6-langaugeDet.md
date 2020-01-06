@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Language Detection of a Text"
-date:   2020-04-06
+date:   2019-10-06
 excerpt: "Built an efficient language detection model using Naive Bayes and relative rank order comparison, resulting in predcitng English and French with 99% accuracy."
 project: true
 tag:
