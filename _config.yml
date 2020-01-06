@@ -1,10 +1,10 @@
 # Site
 title:              Najeeb Qazi
-bio:                'Software Developer and a Machine learning Engineer'
+bio:                'Software Developer and a Machine learning Enthusiast'
 description:        ""
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/dpIcon.jpeg'
+logo:               'assets/img/dpRound.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -37,12 +37,12 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:
+email:              nqazi@sfu.ca
 #twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         najq
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          najeeb-qazi
 #xing:              username
 #instagram:          username
 #lastfm:            username
