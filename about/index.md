@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, theme, moon]
+title: About Me!
+tags: []
 comments: false
 ---
 <div>
